@@ -7,6 +7,6 @@ package com.iluwatar;
  */
 public interface Engineer {
 
-	void operateDevice();
+	void operateDevice()
 
 }
